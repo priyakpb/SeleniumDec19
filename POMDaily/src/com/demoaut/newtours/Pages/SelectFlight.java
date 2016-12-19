@@ -31,7 +31,7 @@ public class SelectFlight {
 		depart.click();
 		arrival.click();
 		submit.click();
-
+		System.out.println("For Git");
 	}
 
 }
