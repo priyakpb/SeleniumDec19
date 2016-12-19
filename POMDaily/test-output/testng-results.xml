@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23020" started-at="2016-11-30T18:09:21Z" finished-at="2016-11-30T18:09:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23020" started-at="2016-11-30T18:09:21Z" finished-at="2016-11-30T18:09:44Z">
+      <class name="com.demoaut.newtours.TestScripts.TicketBooking">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.demoaut.newtours.TestScripts.TicketBooking@4c70fda8]" name="openbrowser" is-config="true" duration-ms="11439" started-at="2016-11-30T23:39:21Z" finished-at="2016-11-30T23:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="bookaflight()[pri:0, instance:com.demoaut.newtours.TestScripts.TicketBooking@4c70fda8]" name="bookaflight" duration-ms="11529" started-at="2016-11-30T23:39:32Z" finished-at="2016-11-30T23:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookaflight -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.demoaut.newtours.TestScripts.TicketBooking@4c70fda8]" name="close" is-config="true" duration-ms="14" started-at="2016-11-30T23:39:44Z" finished-at="2016-11-30T23:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.demoaut.newtours.TestScripts.TicketBooking -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
